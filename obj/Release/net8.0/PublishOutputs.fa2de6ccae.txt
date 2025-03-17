@@ -1,0 +1,13 @@
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\publish\local.exe
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\publish\local.dll
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\publish\local.deps.json
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\publish\local.runtimeconfig.json
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\publish\local.pdb
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\publish\Hotkeys.dll
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\publish\WindowsInput.dll
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\publish\NAudio.dll
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\publish\NAudio.Asio.dll
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\publish\NAudio.Core.dll
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\publish\NAudio.Midi.dll
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\publish\NAudio.Wasapi.dll
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\publish\NAudio.WinMM.dll

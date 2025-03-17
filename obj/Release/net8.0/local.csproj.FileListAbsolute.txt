@@ -1,0 +1,17 @@
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\local.exe
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\local.deps.json
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\local.runtimeconfig.json
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\local.dll
+C:\Users\J3RRY\Desktop\JasperApi\local\bin\Release\net8.0\local.pdb
+C:\Users\J3RRY\Desktop\JasperApi\local\obj\Release\net8.0\local.csproj.AssemblyReference.cache
+C:\Users\J3RRY\Desktop\JasperApi\local\obj\Release\net8.0\local.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J3RRY\Desktop\JasperApi\local\obj\Release\net8.0\local.AssemblyInfoInputs.cache
+C:\Users\J3RRY\Desktop\JasperApi\local\obj\Release\net8.0\local.AssemblyInfo.cs
+C:\Users\J3RRY\Desktop\JasperApi\local\obj\Release\net8.0\local.csproj.CoreCompileInputs.cache
+C:\Users\J3RRY\Desktop\JasperApi\local\obj\Release\net8.0\local.csproj.Fody.CopyLocal.cache
+C:\Users\J3RRY\Desktop\JasperApi\local\obj\Release\net8.0\local.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\J3RRY\Desktop\JasperApi\local\obj\Release\net8.0\local.dll
+C:\Users\J3RRY\Desktop\JasperApi\local\obj\Release\net8.0\refint\local.dll
+C:\Users\J3RRY\Desktop\JasperApi\local\obj\Release\net8.0\local.pdb
+C:\Users\J3RRY\Desktop\JasperApi\local\obj\Release\net8.0\local.genruntimeconfig.cache
+C:\Users\J3RRY\Desktop\JasperApi\local\obj\Release\net8.0\ref\local.dll
